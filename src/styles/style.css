@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Alkatra:wght@500&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Alkatra !important;
+  background-color: rgb(15, 76, 117) !important;
+}
+
+main {
+  width: 100%;
+  margin: auto;
+}
+
+footer {
+  padding: 20px;
+  color: white;
+  background-color: rgb(50, 130, 184);
+  text-align: center;
+  font-weight: bold;
+}
