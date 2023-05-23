@@ -1,1 +1,1 @@
-![mockup_chefchoice](https://github.com/ilmicuy/superheroes-apps/assets/126063465/0fb8b969-62cf-4922-8246-18e2c7d7b316)
+![mockup_superheroes](https://github.com/ilmicuy/superheroes-apps/assets/126063465/19f13fbb-a185-403f-aaf9-c51e4aaa71fa)
